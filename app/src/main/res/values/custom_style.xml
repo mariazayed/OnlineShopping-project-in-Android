@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextStyle1">
+        <item name="android:textColor">#151212</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#928cf2</item>
+    </style>
+
+    <style name="TextStyle2">
+        <item name="android:textColor">#1e1c1c</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#c3c6ef</item>
+    </style>
+
+    <style name="MainActivityBackground" >
+        <item name="android:background">#3e32a6</item>
+    </style>
+
+    <style name="LoginBackground" >
+        <item name="android:background">#5d97a3</item>
+    </style>
+
+    <style name="AdminBackground" >
+        <item name="android:background">#05b10d</item>
+    </style>
+
+    <style name="AddUserBackground" >
+        <item name="android:background">#f55151</item>
+    </style>
+
+    <style name="DeleteUserBackground" >
+        <item name="android:background">#ec0a8e</item>
+    </style>
+
+    <style name="ShowOwnersBackground">
+        <item name="android:background">#b0f7b1</item>
+    </style>
+
+    <style name="OwnerBackground">
+        <item name="android:background">#d3d2ff</item>
+    </style>
+
+    <style name="BuyBackground">
+        <item name="android:background">#cfcfec</item>
+    </style>
+</resources>
