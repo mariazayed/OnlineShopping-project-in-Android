@@ -1,6 +1,6 @@
 # OnlineShopping-project-in-Android
    - The application has multiple supermarkets, each supermarket has one *Admin* which is responsible for his/her branches
-   - Each branch is responsible by an *Owner*
+   - Each branch is responsible by an *Owner*
    - The project has three domains:
     1. The **Admin** has the following features:<br>
                A. Add new owner<br>
